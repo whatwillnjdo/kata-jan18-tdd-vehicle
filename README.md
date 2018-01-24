@@ -8,9 +8,6 @@
 
 # Rules for the kata:
   * Use the “RED – GREEN – REFACTOR” principle.
-  * Try NOT to read ahead; complete the steps one-by-one as ordered.
-  * Make sure that you have both positive and negative test cases.
-  * Keep test coverage 100%
   
 # Problem
     In this Kata we will be looking at the concept of Inheritance with the example of Vehicles on 
