@@ -25,8 +25,10 @@
             class Vehicle {                                                                      
             //Method to add direction to the current direction
             void steer(int direction) { }
+            
             //Method to add velocity to currentVelocity and direction to currentDirection.
             void move(int velocity, int direction) { }
+            
             //Method to change the currentVelocity to zero
             void stop() { }
             }                                                                                                                                     
@@ -40,6 +42,7 @@
             class Car {                                                                      
             //Method to set or change the currentGear to the value passed
             void changeGear(int currentGear) { }
+            
             //This Method is a special one which will to add speed to currentVelocity and direction to currentDirection.
             void changeVelocity(int speed, int direction) { }
             } 
