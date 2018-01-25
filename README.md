@@ -18,7 +18,8 @@
               
 # STAGE 1:
   1. Create a class Vehicle.
-  2. Vehicle contains name, size, currentVelocity, currentDirection. eg. name => "Outlander",  size => "4WD"
+  2. Vehicle contains name, size eg. name => "Outlander",  size => "4WD"
+  3. Initialize the currentVelocity and currentDirection to be zero.
   3. Create appropriate test to getName(), getSize(), getCurrentVelocity() and getCurrentDirection(). 
   4. Create three methods in Vehicle steer(int direction), move(int velocity, int direction) and stop()
   
@@ -26,7 +27,7 @@
             //Method to add direction to the current direction
             void steer(int direction) { }
             
-            //Method to add velocity to currentVelocity and direction to currentDirection.
+            //Method to set velocity to currentVelocity and direction to currentDirection.
             void move(int velocity, int direction) { }
             
             //Method to change the currentVelocity to zero
