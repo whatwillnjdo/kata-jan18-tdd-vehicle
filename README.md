@@ -1,10 +1,9 @@
 # kata-jan18-tdd-vehicle
   * Practice TDD & Pair Programming
-  * Difficult Level - Intermediate
-
+  
 # This kata focuses on:
   * Test Driven Development (TDD)
-  * JAVA concepts: Inheritance
+  * JAVA concepts: Constructors and Inheritance
 
 # Rules for the kata:
   * Use the “RED – GREEN – REFACTOR” principle.
@@ -61,4 +60,5 @@
             void accelerate(int rate){ }
             }      
             
-   
+ # STAGE 4:
+  1. Feel free to get more creative in adding more features to your Classes and also have fun moving the methods and fields to different      classes to see how inheritance can play a role in your code.
