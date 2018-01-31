@@ -37,7 +37,7 @@
   # STAGE 2:
   1. Create a class Car.
   2. A Car has these list of features name, size, wheels, doors, gears, isManual.
-  3. Create a field currentGear and initialize to 1. Write appropriate test to get the initial currentGear.
+  3. Create a field currentGear and initialize to 0. Write appropriate test to get the initial currentGear.
   4. Create two methods in Vehicle changeGear(int currentGear) and changeVelocity(int speed, int direction)
   
             class Car {                                                                      
