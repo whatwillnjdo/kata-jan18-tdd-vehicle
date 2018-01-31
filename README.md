@@ -52,6 +52,7 @@
   1. Create a class Lexus.
   2. Add all the features appropriately that a Lexus can inherit.
   3. Create 1 methods in Lexus accelerate(int rate)
+  4. Try a new functionality "Lombok" if it is new please ask help. See how it can reduce the number of getters / setters and constructors. Make sure all your test cases are not broken.
   
             class Lexus {                                                                      
             // Method used to invoke previous methods in other classes stop(), changeGear() etc
